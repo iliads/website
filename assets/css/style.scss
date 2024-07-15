@@ -10,6 +10,10 @@ a {
 	color: #045B85;
 }
 
+a:hover {
+	color:#80BACE;
+}
+
 footer {
 	background-color:#045b85;
 }
@@ -22,4 +26,12 @@ footer {
 
 .fancy-p {
 	font-size: 1.75rem;
+
+}
+
+h1, h2, h3 {
+	font-family: "Garamond";
+	font-size: 3rem;
+	font-style: italic;
+	color:#045b85;
 }
