@@ -5,3 +5,21 @@
 @import "variables";
 @import "bootstrap/scss/bootstrap";
 @import "bootstrap-icons";
+
+a {
+	color: #045B85;
+}
+
+footer {
+	background-color:#045b85;
+}
+
+.fancy {
+	font-family: "Garamond";
+	font-size: 3rem;
+	font-style: italic;
+}
+
+.fancy-p {
+	font-size: 1.75rem;
+}
