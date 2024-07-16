@@ -7,22 +7,30 @@
     </button>
     <div class="collapse navbar-collapse " id="navbarNav">
       <ul class="navbar-nav ms-auto">
+
+
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="about.html" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             2024
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="{{ '2024-travel-accomodations.html' | absolute_url }}"> Travel and Accommodations</a></li>
-            <li><a class="dropdown-item" href="{{ 'about_it.html' | absolute_url }}">About - IT</a></li>
+        {% assign var1 = site.twenty-four | sort:"order" %}
+        {% for item in var1 %}
+            <li><a class="dropdown-item" href="{{ item.url | absolute_url }}">{{ item.title }}</a></li>
+        {% endfor %}
           </ul>
         </li>
+
+
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="about.html" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             About
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="{{ 'about.html' | absolute_url }}">About - EN</a></li>
-            <li><a class="dropdown-item" href="{{ 'about_it.html' | absolute_url }}">About - IT</a></li>
+        {% assign var2 = site.about | sort:"order" %}
+        {% for item in var2 %}
+            <li><a class="dropdown-item" href="{{ item.url | absolute_url }}">{{ item.title }}</a></li>
+        {% endfor %}
           </ul>
         </li>
         <li class="nav-item">

@@ -25,3 +25,12 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
+
+# Collections
+collections:
+  about:
+      output: true
+      permalink: /about/:name:output_ext
+  twenty-four:
+    output: true
+    permalink: /2024/:name:output_ext

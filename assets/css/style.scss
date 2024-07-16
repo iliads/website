@@ -6,6 +6,7 @@
 @import "bootstrap/scss/bootstrap";
 @import "bootstrap-icons";
 
+
 a {
 	color: #045B85;
 }
@@ -16,6 +17,7 @@ a:hover {
 
 footer {
 	background-color:#045b85;
+	color:#80BACE;
 }
 
 .fancy {
@@ -34,4 +36,9 @@ h1, h2, h3 {
 	font-size: 3rem;
 	font-style: italic;
 	color:#045b85;
+}
+
+blockquote {
+	padding-left: 3rem;
+	font-style: italic;
 }
