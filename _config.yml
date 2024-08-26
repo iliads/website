@@ -20,7 +20,6 @@ defaults:
 
 # Exclude
 exclude:
-  - assets/js/bootstrap.bundle.min.js
   - Gemfile
   - Gemfile.lock
   - LICENSE
