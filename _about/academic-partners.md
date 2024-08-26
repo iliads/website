@@ -12,3 +12,37 @@ Sustaining a week long institute with a dedicated project specific liaison for e
 
 ## 2024 Academic Partners
 
+* Emory University – Pitts Theology Library
+* Hamilton College
+* Michigan State University
+* Washington & Lee University Library
+
+## 2023 Academic Partners
+
+* Davidson College, Library, and Center for Teaching and Learning
+* Grinnell College
+* Case Western Reserve University
+* Pitts Theology Library, Emory University
+
+## 2022 Academic Partners
+
+* Case Western Reserve University – Kelvin Smith Library
+* Davidson College
+* Emory University – Pitts Theology Library
+* Grinnell College Libraries
+* Oberlin College Libraries
+* Washington & Lee University Library
+
+## Inaugural Academic Partners
+
+* Bucknell University
+* College of Wooster
+* Dartmouth College
+* Davidson College
+* Grinnell College
+* Hamilton College
+* Middlebury College
+* Oberlin College
+* Occidental College
+* The Scholars’ Lab at The University of Virginia
+* Washington & Lee University

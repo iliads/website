@@ -105,3 +105,67 @@ The most critical role that liaisons play is connecting project teams with other
 </div>
 
 ## 2023 Liaisons 
+
+* Sara Clarke-DeReza
+* Matt David
+* Sara Fritzell
+* Brinna Michael
+* Liz Miller
+* Sara Mohr
+* Nicole Scalessa
+
+## 2022 Liasons
+
+* Raven Bishop
+* Stella Fritzell
+* Liz Miller
+* Daniel Story
+* Shu Wan
+
+## 2021 Liaisons (Virtual)
+
+* Rebecca Yvonne Bayeck
+* Cheryl Johnson
+* Austin Mason
+* R.C. Miessler
+* Molly Nebiolo
+* Jenna Nolt
+* Liz Rodrigues
+* Daniel Story
+* Katherine (Katie) Walden
+* Rebekah Walker
+* Alex Wermer-Colan
+
+## 2019 Liaisons
+
+* Raven Bishop
+* Caitlin Christian-Lamb
+* Craig Dietrich
+* Cho (Zhiqiu) Jiang
+* R.C. Miessler
+* Megan Mitchell
+* Jenna Nolt
+* Rebecca J. Parker
+* Spencer Roberts
+* Maira Senoo
+* Mathilda Shepard
+* David Soliday
+* Liz Timbs
+* Katherine (Katie) Walden
+
+## 2018 Liaisons
+
+* Tonia Beglari
+* Kristy Golubiewski-Davis
+* R. Benjamin Gorham
+* Megan Kudzia
+* Pamella Lach
+* Austin Mason
+* Scott McAvoy
+* Gabriel Ortiz
+* Rebecca Parker
+* Spencer Roberts
+* Rachel Starry
+* Giovanni Zimotti
+
+
