@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg bg-body-tertiary nav-fill">
   <div class="container-fluid">
-    <a class="navbar-brand " href="{{ 'index.html' | absolute_url }}">ILiADS: Institute for Liberal Arts Digital Scholarship
+    <a class="navbar-brand " href="{{ 'index.html' | relative_url }}">ILiADS: Institute for Liberal Arts Digital Scholarship
   </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -16,7 +16,7 @@
           <ul class="dropdown-menu">
         {% assign var1 = site.twenty-four | sort:"order" %}
         {% for item in var1 %}
-            <li><a class="dropdown-item" href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
+            <li><a class="dropdown-item" href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
         {% endfor %}
           </ul>
         </li>
@@ -34,7 +34,7 @@
           </ul>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{ 'iliads-network.html' | absolute_url }}">ILiADS Network</a>
+          <a class="nav-link" href="{{ 'iliads-network.html' | relative_url }}">ILiADS Network</a>
         </li>
         </ul>
       </li>
