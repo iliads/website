@@ -24,7 +24,7 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-  - [vendor]
+  - vendor
 
 # Collections
 collections:
