@@ -16,7 +16,7 @@
           <ul class="dropdown-menu">
         {% assign var1 = site.twenty-four | sort:"order" %}
         {% for item in var1 %}
-            <li><a class="dropdown-item" href="{{ item.url | absolute_url }}">{{ item.title }}</a></li>
+            <li><a class="dropdown-item" href="{{ item.url }}">{{ item.title }}</a></li>
         {% endfor %}
           </ul>
         </li>
